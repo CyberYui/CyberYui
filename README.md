@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="180" src="./img/avatar.png" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=855414&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+CyberYui+%F0%9F%91%8B;Freelancer+%2F+%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A%E8%80%85;Python+%26+DevOps+Explorer;Curiosity-driven+%2F+%E5%A5%BD%E5%A5%87%E5%BF%83%E9%A9%B1%E5%8A%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberYui&layout=compact&hide_border=true&title_color=855414&text_color=855414&bg_color=00000000" />
+<img align="right" width="200" src="./img/avatar.png" />
 
 **CyberYui** · 中南大学毕业 · 现居中国
 
