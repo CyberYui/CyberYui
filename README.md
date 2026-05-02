@@ -6,16 +6,21 @@
 
 ---
 
-<img align="right" width="200" src="./img/avatar.png" />
+<img align="right" width="200" style="border-radius:16px" src="./img/avatar_bordered.png" />
 
 **CyberYui** · 中南大学毕业 · 现居中国
 
-目前是自由职业者，之前做过运维，现在在探索 Python 数据科学方向。  
-对新事物充满好奇，喜欢研究各种有趣的开源项目，GitHub Star 快 1600 个了，大部分都在吃灰 😅
+目前是自由职业者，之前在互联网公司从事运维工作，主要负责数据库运维（MySQL / Redis）和 Docker 容器管理。  
+离职后开始系统学习 Python 数据科学方向，同时对前端开发和 DevOps 工具链保持持续探索。
+
+对新事物充满好奇，喜欢研究各种有趣的开源项目。  
+GitHub Star 快 1600 个了，大部分都在吃灰，但总有一天会都看完的（大概）😅
 
 - 🔭 Currently exploring: Python · 数据科学 · DevOps 工具链
 - 🌐 Personal site: [cyberyui.space](https://www.cyberyui.space)
-- 📖 Learning: 数据分析 · Docker · Linux 运维
+- 📖 Learning: 数据分析 · Pandas · Matplotlib · Linux 进阶
+- 💬 擅长: MySQL · Redis · Docker · Git · Shell 脚本
+- 🎮 业余爱好: 打游戏 · 看动漫 · 收藏开源项目
 
 <br clear="right"/>
 
