@@ -58,7 +58,7 @@
 
 ---
 
-<a href="mailto:YuiNozomi@vip.qq.com">
+<a href="mailto:30543689+CyberYui@users.noreply.github.com">
   <img src="https://img.shields.io/badge/Email-855414?style=flat-square&logo=gmail&logoColor=white">
 </a>
 &nbsp;
