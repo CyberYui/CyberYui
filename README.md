@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- 顶部图片预留位：建议 400x400px 二次元角色图，放到仓库 img/ 目录后取消注释并替换路径 -->
-<!-- <img width="180" src="./img/avatar.png" /> -->
+<img width="180" src="./img/avatar.png" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=855414&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+CyberYui+%F0%9F%91%8B;Freelancer+%2F+%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A%E8%80%85;Python+%26+DevOps+Explorer;Curiosity-driven+%2F+%E5%A5%BD%E5%A5%87%E5%BF%83%E9%A9%B1%E5%8A%A8)](https://git.io/typing-svg)
 
