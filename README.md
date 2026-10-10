@@ -43,6 +43,17 @@ GitHub Star 快 1600 个了，大部分都在吃灰，但总有一天会都看�
 
 ---
 
+**精选项目 | Featured Projects**
+
+| 项目 | 简介 |
+|------|------|
+| [**YuiTodo-Flutter**](https://github.com/CyberYui/YuiTodo-Flutter) | 📝 精美任务管理 App — Flutter + Riverpod + sqflite，iOS×Notion 混合风格 |
+| [**KiriMonoLog**](https://github.com/CyberYui/KiriMonoLog) | 🌸 AI 每日心情日志 — GitHub Actions 自动生成 + 静态主页展示 |
+| [**macOS-IME-Complete-Chars**](https://github.com/CyberYui/macOS-IME-Complete-Chars) | ⌨️ 补全 macOS 原生拼音输入法的生僻字与偏旁部首，一键导入 plist |
+| [**aseprite-autobuild**](https://github.com/CyberYui/aseprite-autobuild) | 🔧 从源码自动构建 Aseprite（像素画工具）的 GitHub Actions 工作流 |
+
+---
+
 **GitHub Stats**
 
 <!-- 将 github-readme-stats-three-opal-66.vercel.app 替换为你自己部署的 Vercel 域名，例如 my-stats.vercel.app -->
