@@ -79,7 +79,7 @@ GitHub Star 快 1600 个了，大部分都在吃灰，但总有一天会都看�
   <img src="https://img.shields.io/badge/cyberyui.space-855414?style=flat-square&logo=safari&logoColor=white">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=CyberYui&style=flat-square&color=855414" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=CyberYui&style=flat-square&color=855414&v=2" alt="profile views">
 
 ---
 
